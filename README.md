@@ -1,4 +1,11 @@
-> Zero dependency fork for folks like me that don't need the CLI and don't want the dependencies.
+> Zero dependency fork for folks like me that don't need the CLI and don't want
+> the dependencies. This repo only provides `v3.1.3` with zero dependencies.
+
+```
+npm install ryanburnette/ejs@v3.1.3
+```
+
+---
 
 Embedded JavaScript templates<br/>
 [![Build Status](https://img.shields.io/travis/mde/ejs/master.svg?style=flat)](https://travis-ci.org/mde/ejs)
